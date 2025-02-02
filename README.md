@@ -2,6 +2,9 @@
 
 A cyberpunk-themed Paystack balance monitoring and management tool for Termux.
 
+
+FOR THOSE WHO KNOW!
+
 ![Cyberpunk Theme](https://img.shields.io/badge/theme-cyberpunk-ff69b4)
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -37,7 +40,7 @@ pkg install python git termux-api
 
 2. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/paystack-pwner.git
+git clone https://github.com/bodachoco/paystack-pwner.git
 cd paystack-pwner
 ```
 
@@ -92,12 +95,40 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-This tool is for educational purposes only. Use at your own risk. The developers are not responsible for any misuse or damage caused by this program.
+⚠️ **IMPORTANT LEGAL DISCLAIMER** ⚠️
+
+This tool is provided for EDUCATIONAL and AUTHORIZED TESTING purposes ONLY. By using this software, you agree:
+
+1. To use it only on systems you own or have explicit permission to test
+2. Not to use it for any malicious or illegal activities
+3. Not to hold the creator(s) liable for any misuse or damage
+4. To comply with all applicable laws and Paystack's terms of service
+
+The developer (B0D4CH0C0) assumes NO responsibility for any misuse or damage caused by this program.
+Remember: With great power comes great responsibility! 🦹‍♂️
 
 ## Credits
 
-Created with 💻 by [Your Name]
+```ascii
+╔══════════════════════════════════════════════════════════╗
+║             P4Y$T4CK PWN3R CR3D1T$                       ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  ██████╗ ██╗    ██╗███╗   ██╗██████╗ ██████╗           ║
+║  ██╔══██╗██║    ██║████╗  ██║██╔══██╗██╔══██╗          ║
+║  ██████╔╝██║ █╗ ██║██╔██╗ ██║██████╔╝██████╔╝          ║
+║  ██╔═══╝ ██║███╗██║██║╚██╗██║██╔══██╗██╔══██╗          ║
+║  ██║     ╚███╔███╔╝██║ ╚████║██║  ██║██║  ██║          ║
+║  ╚═╝      ╚══╝╚══╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝          ║
+║                                                          ║
+║  CR34T3D BY: B0D4CH0C0                                  ║
+║  C0D3N4M3: N1GH7_$T4LK3R                                ║
+║  V3R$10N: 2.0.0                                         ║
+║                                                          ║
+║  Copyright © 2024 B0D4CH0C0. All rights reserved.       ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ## Support
 
-If you like this project, please give it a ⭐! 
+If you like this project, please give it a ⭐!
