@@ -2,6 +2,9 @@
 
 A cyberpunk-themed Paystack balance monitoring and management tool for Termux.
 
+
+FOR THOSE WHO KNOW!
+
 ![Cyberpunk Theme](https://img.shields.io/badge/theme-cyberpunk-ff69b4)
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
